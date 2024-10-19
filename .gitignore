@@ -1,0 +1,18 @@
+# Ignore MATLAB temporary files
+*.asv
+*.mex*
+*.p
+*.mlappinstall
+*.mat
+*.fig
+*.slx
+*.mdl
+
+# Ignore folders
+.idea/
+.vscode/
+.settings/
+*.prj
+
+# Ignore user-specific files
+*.log
