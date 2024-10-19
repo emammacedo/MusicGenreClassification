@@ -10,3 +10,5 @@ Steps:
 1. Data Splitting and Standardization
 2. Feature Selection (Kruskal-Wallis, Correlation Matrix) and Reduction (PCA, LDA)
 3. Classification (MDC, Bayes, Linear and Non-linear SVMs, KNN, among others)
+
+A GUI was also developed.
